@@ -22,3 +22,4 @@ Este repositório é destinado a projetos desenvolvivos durante o programa ONE -
 Os Challenges são desafios propostos para aplicar os conhecimentos adquiridos ao longo dos cursos. Foram fornecidos o Figma dos projetos, e com base nele, desenvolvi as soluções para os desafios.
 
 - Challenge 1: Portfólio. (Em desenvolvimento)
+  **Link Figma**: https://www.figma.com/design/TsR79q5q6tVlizAjyMUraB/Challenge-Front-end-Portf%C3%B3lio-(Copy)?node-id=0-1&node-type=canvas&t=6TjjrUtZK48GnGga-0
