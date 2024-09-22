@@ -4,11 +4,11 @@ Este repositório é destinado a projetos desenvolvivos durante o programa ONE -
 
 #### Esse programa conta com 5 formações:
 
-1) Desenvolvimento Pessoal;
-2) Iniciante em programação;
-3) Empreendorismo, agilidade e protagonismo na carreira (extra);
-4) Front-End;
-5) React.
+1) Desenvolvimento Pessoal; (Finalizado)
+2) Iniciante em programação; (Finalizado)
+3) Empreendorismo, agilidade e protagonismo na carreira (extra); (Em andamento)
+4) Front-End; (Em andamento)
+5) React. (Não iniciado)
 
 #### Projetos:
 
