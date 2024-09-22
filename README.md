@@ -15,4 +15,4 @@ Este repositório é destinado a projetos desenvolvivos durante o programa ONE -
 - Projeto 1: Jogo de advinhação de número utilizando HTML, CSS e JavaScript.
   **Link**: https://jogo-adivinhacao-olive-nu.vercel.app/
 - Projeto 2: O objetivo deste projeto foi corrigir o código fornecido, garantindo uma estrutura semântica adequada do HTML. Todo o código fornecido estava desenvolvido utilizando apenas `<div>`, e, com isso, foi possível aprimorar a semântica do mesmo.
-  
+- Projeto 3: Foi fornecido um projeto já em andamento, com parte do código HTML e CSS pronta. Assim, o objetivo foi organizar os elementos do projeto com o Flexbox. O arquivo flexbox.css estava vazio inicialmente, e ao longo do curso foi preenchido.
