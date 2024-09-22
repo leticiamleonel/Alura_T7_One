@@ -1,0 +1,34 @@
+:root{
+    --background-1: #FFFFFF;
+    --color-links: #464646;
+}
+
+.cabeçalho{
+    background-color: var(--background-1);
+    height: fit-content;
+    position: sticky; /*para a barra de navegação*/
+    top: 0;            /*continuar aparecendo mesmo*/
+    z-index: 1;
+}
+
+.cabeçalho__navegação__lista {
+    margin: 0 auto;
+    width: fit-content;
+    display: flex;
+    gap: 1rem;
+}
+
+.cabeçalho__navegação__lista__item{
+    min-width: fit-content;
+    height: fit-content;
+    padding: 0 0.75rem;
+    font-size: small;
+    cursor: pointer;
+    list-style: none;
+    color: var(--color-links);
+}
+
+.cabeçalho__título{
+    margin: auto;
+    color: var(--color-links);
+}
